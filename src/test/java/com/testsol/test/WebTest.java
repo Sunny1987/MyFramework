@@ -56,8 +56,8 @@ public class WebTest extends UtilityTest{
 		//if driver is IE
 		else if(driverStr.equalsIgnoreCase("ie")) {
 					//code for ie
-			System.setProperty("webdriver.ie.driver", "F:\\selenium\\IEdriver\\IEDriverServer.exe");
-			driver = new InternetExplorerDriver();
+			//System.setProperty("webdriver.ie.driver", "F:\\selenium\\IEdriver\\IEDriverServer.exe");
+			//driver = new InternetExplorerDriver();
 		}
 				
 		//if driver is firefox
