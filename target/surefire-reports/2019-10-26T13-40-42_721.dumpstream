@@ -1,0 +1,4 @@
+# Created at 2019-10-26T13:40:43.481
+Boot Manifest-JAR contains absolute paths in classpath 'F:\MySolSet\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
